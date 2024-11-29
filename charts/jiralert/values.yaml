@@ -238,3 +238,4 @@ serviceMonitor:
   #   targetLabel: nodename
   #   replacement: $1
   #   action: replace
+  ##gowthami
